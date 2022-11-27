@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/coding_tortoise",
+        "prod_uri": "mysql://root:@localhost/coding_tortoise",
+        "fb_url": "https://facebook.com/TheCodingTortoise",
+        "tw_url": "https://twitter.com/TheCodingTortoise",
+        "gh_url": "https://github.com/TheCodingTortoise",
+        "blog_name": "The Coding Tortoise",
+        "tag_line": "A Blog Liked by Coders",
+        "gmail-user": "",
+        "gmail-password": "",
+        "about": "This is me writing my first blog using flask in python ",
+        "no_of_post": 3,
+        "signin_img": "bootstrap-logo.svg",
+        "admin_user": "omprakash",
+        "admin_password": "Dhakar@0143",
+        "upload_location": "C:\\Users\\DELL\\Desktop\\Flask\\static\\assets\\img"
+    }
+}
