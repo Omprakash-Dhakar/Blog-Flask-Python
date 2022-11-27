@@ -138,7 +138,7 @@ def edit(sno):
                 db.session.commit()
                 return redirect('/edit/' + sno)
         post = Post.query.filter_by(sno=sno).first()
-        return render_template('edit.html', params=params, post=post)
+        return render_template('edit.html', params=params, post=post, sno=sno)
 
 
 @app.route("/uploader", methods=['GET', 'POST'])  # type: ignore
