@@ -1,7 +1,6 @@
 Flask
 gunicorn
 flask_sqlalchemy
-apache
 Xampp
 SQLAlchemy
 MySQL
